@@ -215,7 +215,8 @@ h2{
       padding-left: 3%;
       padding-right: 3%;
       background: #80808038;
-      margin-top:20px;
-    margin-bottom:20px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      border-radius: 30px;
   }
 }
