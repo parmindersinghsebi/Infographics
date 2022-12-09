@@ -44,7 +44,7 @@ h2{
     background-color: #4CAF50;
     border: none;
     border-radius: 15px;
-    box-shadow: 0 9px #999;
+    
   }
   
   .btn1:hover {background-color: #3e8e41}
@@ -72,6 +72,7 @@ h2{
 }
 .card-header {
   width: 90%;
+  height: 300px;
   background: #fff;
   margin: 0 auto;
   display: flex;
@@ -108,6 +109,9 @@ h2{
     justify-content: center;
     width: 100%;
     background: #80808096;
+    margin-top:20px;
+    margin-bottom:20px;
+
 }
 .card-header i {
   font-size: 40px;
@@ -127,8 +131,8 @@ h2{
 }
 .card-header p {
   font-size: 12px;
-  text-align: justify;
-  margin-top: 10px;
+  text-align: center;
+    margin-top: 15px;
 }
 .card-footer {
   width: 100%;
@@ -210,6 +214,8 @@ h2{
       width: 75%;
       padding-left: 3%;
       padding-right: 3%;
-      background: #80808096;
+      background: #80808038;
+      margin-top:20px;
+    margin-bottom:20px;
   }
 }
